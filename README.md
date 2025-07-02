@@ -12,3 +12,21 @@ Este proyecto es un dashboard interactivo construido con Excel y Python para ana
 - Python
 - Pandas
 - Matplotlib
+
+## Categorías Financieras
+
+**Ingresos**:
+- Salario
+- Ingreso Semanal
+- Guardado
+- Pago
+
+**Gastos**:
+- Alimentación
+- Transporte
+- Educación
+- Entretenimiento
+- Salud
+- Hogar
+- Ahorro
+- Deudas
