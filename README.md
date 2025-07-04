@@ -106,7 +106,7 @@ El archivo `dashboard_finanzas.xlsx` incluye:
 ![Gastos por categoría](data/gastos_por_categoria.png)
 
 ### Gráfico de barras – Ingresos vs Gastos
-![Ingresos vs Gastos](data/ingresos_vs_gastos_por_dia.png)
+![Ingresos vs Gastos](data/ingreso_vs_gastos_por_dia.png)
 
 ### Gráfico de línea – Saldo acumulado
 ![Saldo acumulado](data/saldo_acumulado.png)
