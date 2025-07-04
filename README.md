@@ -74,4 +74,8 @@ El archivo `dashboard_finanzas.xlsx` incluye:
 
 ![Saldo acumulado](data/saldo_acumulado.png)
 
+### Dashboard en excel
+
+![Saldo acumulado](data/dashboard_excel.png)
+
 ---
